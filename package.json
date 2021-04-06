@@ -1,0 +1,44 @@
+{
+  "name": "@alexlit/config-htmllint",
+  "version": "0.0.1",
+  "private": false,
+  "description": "htmllint config",
+  "keywords": [
+    "htmllint",
+    "linthtml",
+    "config"
+  ],
+  "homepage": "https://github.com/alex-lit/config-htmllint#readme",
+  "bugs": {
+    "url": "https://github.com/alex-lit/config-htmllint/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-lit/config-htmllint.git"
+  },
+  "license": "MIT",
+  "author": "Alexey Litovchenko",
+  "maintainers": [
+    "Alexey Litovchenko <alex.lit@outlook.com> (https://alexlit.gitlab.io)"
+  ],
+  "main": ".htmllintrc.js",
+  "files": [
+    ".htmllintrc.js"
+  ],
+  "scripts": {
+    "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
+    "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
+    "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
+    "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
+    "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
+    "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
+    "up": "./node_modules/@alexlit/lint-kit/scripts/up.sh",
+    "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
+  },
+  "dependencies": {
+    "@linthtml/linthtml": "^0.7.0"
+  },
+  "devDependencies": {
+    "@alexlit/lint-kit": "^3.4.1"
+  }
+}
