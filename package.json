@@ -39,6 +39,6 @@
     "@linthtml/linthtml": "^0.7.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^3.4.1"
+    "@alexlit/lint-kit": "^3.5.2"
   }
 }
