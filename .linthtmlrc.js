@@ -21,7 +21,7 @@ module.exports = {
         'marginheight',
         'marginwidth',
         'scrolling',
-        // 'style',
+        'style',
         'width',
       ],
     ],
