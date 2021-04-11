@@ -4,9 +4,10 @@
   "private": false,
   "description": "htmllint config",
   "keywords": [
+    "config",
+    "html",
     "htmllint",
-    "linthtml",
-    "config"
+    "linthtml"
   ],
   "homepage": "https://github.com/alex-lit/config-htmllint#readme",
   "bugs": {
@@ -21,9 +22,9 @@
   "maintainers": [
     "Alexey Litovchenko <alex.lit@outlook.com> (https://alexlit.gitlab.io)"
   ],
-  "main": ".htmllintrc.js",
+  "main": ".linthtmlrc.js",
   "files": [
-    ".htmllintrc.js"
+    ".linthtmlrc.js"
   ],
   "scripts": {
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
