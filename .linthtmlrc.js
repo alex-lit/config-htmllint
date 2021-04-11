@@ -11,6 +11,7 @@ module.exports = {
 
   rules: {
     'attr-order': [true, ['id', 'class']],
+    'attr-quote-style': [true, 'double'],
     'button-req-content': true,
     'class-style': [true, 'bem'],
     'fieldset-contains-legend': true,
