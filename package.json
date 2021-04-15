@@ -30,6 +30,7 @@
     "lint": "./node_modules/@alexlit/lint-kit/scripts/lint.sh",
     "lint:eslint": "./node_modules/@alexlit/lint-kit/scripts/lint.eslint.sh",
     "lint:htmllint": "./node_modules/@alexlit/lint-kit/scripts/lint.htmllint.sh",
+    "lint:markdownlint": "./node_modules/@alexlit/lint-kit/scripts/lint.markdownlint.sh",
     "lint:stylelint": "./node_modules/@alexlit/lint-kit/scripts/lint.stylelint.sh",
     "publish": "./node_modules/@alexlit/lint-kit/scripts/publish.sh",
     "semver": "./node_modules/@alexlit/lint-kit/scripts/semver.sh",
@@ -41,6 +42,6 @@
     "@linthtml/linthtml-config-recommended": "^0.1.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^3.5.2"
+    "@alexlit/lint-kit": "^5.4.0"
   }
 }
