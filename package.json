@@ -43,6 +43,6 @@
     "@linthtml/linthtml-config-recommended": "^0.1.0"
   },
   "devDependencies": {
-    "@alexlit/lint-kit": "^29.2.3"
+    "@alexlit/lint-kit": "latest"
   }
 }
