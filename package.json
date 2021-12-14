@@ -39,7 +39,7 @@
     "version": "./node_modules/@alexlit/lint-kit/scripts/version.sh"
   },
   "dependencies": {
-    "@linthtml/linthtml": "^0.8.2",
+    "@linthtml/linthtml": "^0.8.3",
     "@linthtml/linthtml-config-recommended": "^0.1.0"
   },
   "devDependencies": {
