@@ -1,3 +1,5 @@
+## [0.2.1](https://github.com/alex-lit/config-htmllint/compare/v0.2.0...v0.2.1) (2022-09-30)
+
 # [0.2.0](https://github.com/alex-lit/config-htmllint/compare/v0.1.5...v0.2.0) (2022-09-01)
 
 ## [0.1.5](https://github.com/alex-lit/config-htmllint/compare/v0.1.4...v0.1.5) (2022-03-28)
